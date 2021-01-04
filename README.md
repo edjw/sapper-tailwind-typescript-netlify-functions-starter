@@ -1,7 +1,7 @@
 # Starter for Sapper, Tailwind, Typescript, and Netlify functions
 
 ```bash
-npx degit https://github.com/edjw/sapper-tailwind-typescript-netlify-functions-starter.git new-folder
+npx degit https://github.com/edjw/sapper-tailwind-typescript-netlify-functions-starter new-folder
 
 cd new-folder
 
