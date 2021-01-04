@@ -1,5 +1,7 @@
 # Starter for Sapper, Tailwind, Typescript, and Netlify functions
 
+The Sapper template with Typescript enabled, Typescript added, and Netlify serverless functions set up
+
 ```bash
 npx degit https://github.com/edjw/sapper-tailwind-typescript-netlify-functions-starter new-folder
 
